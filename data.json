@@ -1,0 +1,21 @@
+{
+    "chart_title": "My Weekly Time Use (Hours per Week)",
+    "data_points": [
+        {"label": "Sleep", "value": 52},
+        {"label": "Classes", "value": 15},
+        {"label": "Studying", "value": 18},
+        {"label": "Exercise", "value": 5},
+        {"label": "Social", "value": 12},
+        {"label": "Gaming", "value": 7}
+    ],
+    "weekly_log": {
+        "weeks": ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5", "Week 6", "Week 7", "Week 8"],
+        "activities": {
+            "Sleep":    [50, 52, 49, 53, 51, 48, 54, 52],
+            "Studying": [10, 12, 15, 18, 22, 25, 20, 18],
+            "Exercise": [3, 4, 5, 5, 4, 3, 6, 5],
+            "Social":   [14, 13, 12, 12, 10, 8, 11, 12],
+            "Gaming":   [12, 10, 9, 7, 6, 4, 6, 7]
+        }
+    }
+}
